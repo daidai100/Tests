@@ -1,0 +1,8 @@
+vl6180x_i2c.c:85:5:VL6180x_WrByte	1
+vl6180x_i2c.c:103:5:VL6180x_WrWord	1
+vl6180x_i2c.c:122:5:VL6180x_WrDWord	1
+vl6180x_i2c.c:143:5:VL6180x_UpdateByte	3
+vl6180x_i2c.c:170:5:VL6180x_RdByte	3
+vl6180x_i2c.c:194:5:VL6180x_RdWord	3
+vl6180x_i2c.c:218:6:VL6180x_RdDWord	3
+vl6180x_i2c.c:243:6:VL6180x_RdMulti	2
